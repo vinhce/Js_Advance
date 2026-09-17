@@ -1,1 +1,1 @@
-# Js_Advance
+this is prototype aka clone 
